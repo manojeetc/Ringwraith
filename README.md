@@ -1,9 +1,6 @@
 <h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Logos/Dark%20Logo.png">
-    <source media="(prefers-color-scheme: light)" srcset="Logos/Light%20Logo.png">
-    <img alt="Ringwraith" src="Logos/Light%20Logo.png" width="420">
-  </picture>
+  <img alt="Ringwraith" src="Logos/Light%20Logo.png#gh-light-mode-only" width="420">
+  <img alt="Ringwraith" src="Logos/Dark%20Logo.png#gh-dark-mode-only" width="420">
 </h1>
 
 <div align="center">
