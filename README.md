@@ -11,15 +11,21 @@
 A home-built 5-inch 6S freestyle quad on a Mark4 HD frame, flown with a Radiomaster Pocket over ExpressLRS.<br>
 Parts ordered September 2026, built and first flown October 2026.
 
-[![Status: flying](https://img.shields.io/badge/status-flying-F77032?style=for-the-badge&labelColor=0A0A0A)](#flying)
-[![Class: 5" freestyle](https://img.shields.io/badge/class-5%22%20freestyle-F77032?style=for-the-badge&labelColor=0A0A0A)](#at-a-glance)
-[![Power: 6S LiPo](https://img.shields.io/badge/power-6S%20LiPo-F77032?style=for-the-badge&labelColor=0A0A0A)](#battery-care)
-[![Build cost: $338](https://img.shields.io/badge/build%20cost-%24338-F77032?style=for-the-badge&labelColor=0A0A0A)](#bill-of-materials)
+[![Stars](https://img.shields.io/github/stars/manojeetc/Ringwraith?style=for-the-badge&logo=github&color=F77032)](https://github.com/manojeetc/Ringwraith/stargazers)
+[![Forks](https://img.shields.io/github/forks/manojeetc/Ringwraith?style=for-the-badge&logo=github&color=F77032)](https://github.com/manojeetc/Ringwraith/forks)
+[![Watchers](https://img.shields.io/github/watchers/manojeetc/Ringwraith?style=for-the-badge&logo=github&color=F77032)](https://github.com/manojeetc/Ringwraith/watchers)
+![Views](https://komarev.com/ghpvc/?username=manojeetc-ringwraith&label=views&color=F77032&style=for-the-badge)
+[![Last commit](https://img.shields.io/github/last-commit/manojeetc/Ringwraith/main?style=for-the-badge&color=F77032)](https://github.com/manojeetc/Ringwraith/commits/main)
+[![Repo size](https://img.shields.io/github/repo-size/manojeetc/Ringwraith?style=for-the-badge&color=F77032)](https://github.com/manojeetc/Ringwraith)
 
-[![Firmware: Betaflight](https://img.shields.io/badge/firmware-Betaflight-555555?style=for-the-badge&labelColor=0A0A0A)](https://betaflight.com)
-[![FC: STM32F722](https://img.shields.io/badge/FC-STM32F722-555555?style=for-the-badge&labelColor=0A0A0A)](#flight-controller-highlights-jhemcu-gf30f722-icm)
-[![Link: ExpressLRS 2.4GHz](https://img.shields.io/badge/link-ExpressLRS%202.4GHz-555555?style=for-the-badge&labelColor=0A0A0A)](https://www.expresslrs.org)
-[![Radio: Radiomaster Pocket](https://img.shields.io/badge/radio-Radiomaster%20Pocket-555555?style=for-the-badge&labelColor=0A0A0A)](#radio-setup-radiomaster-pocket-edgetx)
+[![Status: flying](https://img.shields.io/badge/status-flying-F77032?style=flat-square&labelColor=0A0A0A)](#flying)
+[![Class: 5" freestyle](https://img.shields.io/badge/class-5%22%20freestyle-F77032?style=flat-square&labelColor=0A0A0A)](#at-a-glance)
+[![Power: 6S LiPo](https://img.shields.io/badge/power-6S%20LiPo-F77032?style=flat-square&labelColor=0A0A0A)](#battery-care)
+[![Build cost: $338](https://img.shields.io/badge/build%20cost-%24338-F77032?style=flat-square&labelColor=0A0A0A)](#bill-of-materials)
+[![Firmware: Betaflight](https://img.shields.io/badge/firmware-Betaflight-555555?style=flat-square&labelColor=0A0A0A)](https://betaflight.com)
+[![FC: STM32F722](https://img.shields.io/badge/FC-STM32F722-555555?style=flat-square&labelColor=0A0A0A)](#flight-controller-highlights-jhemcu-gf30f722-icm)
+[![Link: ExpressLRS 2.4GHz](https://img.shields.io/badge/link-ExpressLRS%202.4GHz-555555?style=flat-square&labelColor=0A0A0A)](https://www.expresslrs.org)
+[![Radio: Radiomaster Pocket](https://img.shields.io/badge/radio-Radiomaster%20Pocket-555555?style=flat-square&labelColor=0A0A0A)](#radio-setup-radiomaster-pocket-edgetx)
 
 [Parts](#bill-of-materials) · [Wiring](#wiring) · [Betaflight](#betaflight-setup) · [Radio](#radio-setup-radiomaster-pocket-edgetx) · [Flying](#flying) · [Lessons learned](#lessons-learned) · [Upgrades](#upgrade-ideas)
 
