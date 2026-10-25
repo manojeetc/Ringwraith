@@ -1,0 +1,13 @@
+# Office lock files
+~$*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# draw.io backups
+*.bkp
+.$*
